@@ -1,2 +1,2 @@
-# 1- Crie um programa que escreva 'Hello World'.
+# 01- Crie um programa que escreva 'Hello World'.
 print('Hello World')
