@@ -1,4 +1,5 @@
-# 02- Escreva um programa que faça a soma de dois números.
+# 02- Escreva um programa que faça a soma de dois números e mostre o resultado.
+
 NUM1 = int(10)
 NUM2 = int(20)
 RESULTADO = NUM1 + NUM2

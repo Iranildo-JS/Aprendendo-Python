@@ -1,5 +1,9 @@
 # Crie um programa que repita a mesma pergunta até que o usuário digite 0.
+
 num = int(input(' Você tem parciência? Digite 1-SIM / 0-NÃO: '))
+
+# Estrutura de repetição.
+
 while num == 1:
     num = int(input(' Certeza que você tem parciência? '))
 while num > 1 or num < 0:
